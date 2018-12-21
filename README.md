@@ -2,6 +2,10 @@
 
 A new Flutter application.
 
+Flutter drawer menu application.
+<center> <a href="https://user-images.githubusercontent.com/24685929/50357932-ba30aa80-0568-11e9-9c51-a4645ca45d80"> <img src="https://user-images.githubusercontent.com/24685929/50357932-ba30aa80-0568-11e9-9c51-a4645ca45d80.gif" height="500" /></a></center>
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
